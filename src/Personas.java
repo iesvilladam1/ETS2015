@@ -30,7 +30,7 @@ public class Personas {
 		public void setCod(int cod) {
 			this.cod = cod;
 		}
-//modifiqué el set cod desde el github
+//modifiqué el set cod desde el github  tercera vez 11:28
 				/**
 		 * @return the nif
 		 */
