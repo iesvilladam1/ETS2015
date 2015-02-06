@@ -27,10 +27,10 @@ public class Personas {
 		/**
 		 * @param cod the cod to set
 		 */
-	/*	public void setCod(int cod) {
+		public void setCod(int cod) {
 			this.cod = cod;
 		}
-*/
+//modifiqué el set cod desde el github
 				/**
 		 * @return the nif
 		 */
