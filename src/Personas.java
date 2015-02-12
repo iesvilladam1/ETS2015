@@ -1,4 +1,5 @@
 public class Personas {
+		private int id //ese es nuevo desde gituhub
 		private int cod;
 		private String nif;
 		private String nombre;
